@@ -22,8 +22,6 @@ title: Wenxuan Zhu
 email: wzhu10@ncsu.edu
 description: > # this means to ignore newlines until "baseurl:"
   I enjoy learning, becoming better and understanding basic principles behind things. 
-  I also enjoy watching tv and the cycle of hating myself, gain some confidence and then being lazy again.
-  Also Doctor Who!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://defwentz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _
