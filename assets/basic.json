@@ -22,7 +22,7 @@
     "coords": [[0,0]]
   },
   {
-    "material": {"ambient": [0.2,0.57,0.34], "diffuse": [0.6,0.4,0.4], "specular": [0.3,0.3,0.3], "n": 11, "alpha": 0.9, "texture": "mantislords.jpg"}, 
+    "material": {"ambient": [0.2,0.57,0.34], "diffuse": [0.6,0.4,0.4], "specular": [0.3,0.3,0.3], "n": 11, "alpha": 0.9, "texture": "bg1.png"}, 
     "vertices": [[-4.1, 0.0, 5],[5.1, 0.0, 5],[5.1, 4.6, 5],[-4.1,4.6,5]],
     "uvs": [[1,0], [0,0], [0,1],[1,1]],
     "triangles": [[0,1,2],[2,3,0]],
