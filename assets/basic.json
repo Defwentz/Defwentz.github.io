@@ -39,5 +39,13 @@
     "triangles": [[0,1,2],[2,3,0]],
     "coords": [[0,0]],
     "comment":"filter"
+  },
+  {
+    "material": {"ambient": [0.2,0.57,0.34], "diffuse": [0.6,0.4,0.4], "specular": [0.3,0.3,0.3], "n": 11, "alpha": 0.9, "texture": "start.png"}, 
+    "vertices": [[-2, 0.0, 10],[3, 0.0, 10],[3, 3.0, 10],[-2,3.0,10]],
+    "uvs": [[1,0], [0,0], [0,1],[1,1]],
+    "triangles": [[0,1,2],[2,3,0]],
+    "coords": [[0,0]],
+    "comment":"startscreen"
   }
 ]
