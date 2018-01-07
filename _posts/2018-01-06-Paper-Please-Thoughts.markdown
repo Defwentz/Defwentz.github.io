@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "《请出示文件》想法"
 date:   2018-01-06 17:40:24 -0400
 categories: game stuff

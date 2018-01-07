@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Doctor Who 各种系列说明"
 date:   2014-10-28 07:37:24 +0800
 categories: doctor who

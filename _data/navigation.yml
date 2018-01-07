@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, developed, coded, and whatever."
+  image:
+  
+- title: About me
+  url: /about/
+  excerpt: "About myself"
+  image:
