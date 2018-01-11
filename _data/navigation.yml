@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Blog
+  url: /
+  excerpt: "Blog posts"
+  image:
+  
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, developed, coded, and whatever."
