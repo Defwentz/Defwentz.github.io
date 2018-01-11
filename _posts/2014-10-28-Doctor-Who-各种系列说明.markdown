@@ -5,6 +5,7 @@ date:   2014-10-28 07:37:24 +0800
 categories: doctor who
 tags: CN
 permalink: /:categories/:title
+comments: true
 ---
 
 小说有以下几个系列:

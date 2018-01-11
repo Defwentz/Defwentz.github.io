@@ -22,5 +22,10 @@ layout: default
 				<hr />
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
+		<div class="page-footer">
+			{% if page.comments %}
+				{% include comments.html %}
+			{% endif %}
+		</div><!-- /.inner-wrap -->
 	</article><!-- ./wrap -->
 </div><!-- /#main -->
