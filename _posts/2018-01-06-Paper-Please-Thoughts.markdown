@@ -5,6 +5,7 @@ date:   2018-01-06 17:40:24 -0400
 categories: game stuff
 tags: CN
 permalink: /:categories/:title
+comments: true
 ---
 
 最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。
