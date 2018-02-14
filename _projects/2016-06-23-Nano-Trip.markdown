@@ -5,12 +5,34 @@ date:   2016-06-23 07:37:24 +0800
 categories: projects
 tags: EN
 permalink: /:categories/:title
+
+image:
+  teaser: nano_trip_teaser.jpg
+  credit: 刘畅
 ---
 
-Features
+Demo
+-
+![Nano Trip Demo]({{ "/images/nano_trip_demo.gif" | absolute_url }})
 
-Screenshots
 
-Android
+Links
+-
+- [Github repo](https://itunes.apple.com/cn/app/nano-trip/id923700071?l=en&mt=8)
+- [Nano Trip on the App Store](https://itunes.apple.com/cn/app/nano-trip/id923700071?l=en&mt=8)
+- [Nano Trip on 应用宝(a Chinese Android market)](http://android.app.qq.com/myapp/detail.htm?apkName=org.cocos.nanatrip)
 
-iOS
+Credits
+-
+- programer: [Wenxuan Zhu](http://defwentz.github.io)
+- art: Chang Liu, Gong Yun
+- music: Shoukun Yan
+
+Our team at hackathon getting a check
+-
+![Our team]({{ "/images/nano_trip_our_team.jpg" | absolute_url }})
+
+(that person on the left isn't on our team, she's from the company that organizes the event)
+
+
+(Left to Right: Gong Yun, Chang Liu, Wenxuan Zhu)

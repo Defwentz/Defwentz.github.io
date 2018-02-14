@@ -2,11 +2,21 @@
 layout: article
 title:  "《请出示文件》想法"
 date:   2018-01-06 17:40:24 -0400
-categories: game stuff
+categories: game thoughts
 tags: CN
 permalink: /:categories/:title
 comments: true
+
+image:
+  teaser: Papers_Please_-_Title_Logo.png
+  feature: papers_please_credit_screenshot.png
+  credit: screenshot from my play through
+  creditlink: http://papersplea.se
 ---
+
+放在前面
+-
+不算什么点评，就是一些想法。
 
 最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。
 

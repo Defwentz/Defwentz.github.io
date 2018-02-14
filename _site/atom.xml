@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-11T10:49:46-05:00</updated><id>/</id><title>Spinda</title><subtitle>My personal website, I post stuff and there is also my cv, my projects.</subtitle><entry><title>《请出示文件》想法</title><link href="/game/stuff/Paper-Please-Thoughts" rel="alternate" type="text/html" title="《请出示文件》想法" /><published>2018-01-06T16:40:24-05:00</published><updated>2018-01-06T16:40:24-05:00</updated><id>/game/stuff/Paper-Please-Thoughts</id><content type="html" xml:base="/game/stuff/Paper-Please-Thoughts">&lt;p&gt;最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://127.0.0.1:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2018-02-13T19:04:08-05:00</updated><id>http://127.0.0.1:4000/</id><title>Spinda</title><subtitle>My personal website, I post stuff and there is also my cv, my projects.</subtitle><entry><title>《请出示文件》想法</title><link href="http://127.0.0.1:4000/game/thoughts/Paper-Please-Thoughts" rel="alternate" type="text/html" title="《请出示文件》想法" /><published>2018-01-06T16:40:24-05:00</published><updated>2018-01-06T16:40:24-05:00</updated><id>http://127.0.0.1:4000/game/thoughts/Paper-Please-Thoughts</id><content type="html" xml:base="http://127.0.0.1:4000/game/thoughts/Paper-Please-Thoughts">&lt;h2 id=&quot;section&quot;&gt;放在前面&lt;/h2&gt;
+&lt;p&gt;不算什么点评，就是一些想法。&lt;/p&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;画面, 音乐&lt;/h2&gt;
+&lt;p&gt;最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;画面, 音乐&lt;/h2&gt;
 &lt;p&gt;像素风。开始界面，伴着有点欧洲不知道哪里的音乐一顿一顿地往上滑，不好说有表达了什么情感，但这个画面和调子确实给我深刻的印象（7个小时的游戏时间地听这个调子之后）。&lt;/p&gt;
 
 &lt;ul&gt;
@@ -9,7 +12,7 @@
   &lt;li&gt;纯剧情的时候，音乐伴着几张画面切换还有短短几句配文，感觉效果非常好。一种灯光，舞台，人生走马灯的感觉。“你因为谋杀被捕了”-&amp;gt;“处决是死刑”-&amp;gt;“你的家人会被询问”-&amp;gt;…-&amp;gt;“Glory to Arstotzka!”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;故事&lt;/h2&gt;
+&lt;h2 id=&quot;section-2&quot;&gt;故事&lt;/h2&gt;
 &lt;p&gt;玩家是Arstotzka国的一个边界文件检查人员，每天早上走路上班，看看今天又出台了什么新政策。晚上回家看看家里人身体状况看看薪水和存款决定今天要不要吃饭，要不要暖屋子。
 玩家的其实权利很大，别人能不能入关都要看玩家的盖章，这也是大部分故事与决策的来源。&lt;/p&gt;
 
@@ -19,7 +22,7 @@
   &lt;li&gt;游戏中的很多决策都是没有好坏之分的。很多时候你可以选择相信别人，放人入关。但是代价就是你自己会收罚单，可能就付不起水电费，家人可能就因此遭难。看作者也在采访&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;中提到说，特意模糊了一些表达。比如每天收工回家的简陋界面，想达到的目的就是给玩家空间让人有更好的代入感。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-2&quot;&gt;机制&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;机制&lt;/h2&gt;
 &lt;p&gt;找不同的本质，加上一些资源分配，影响故事的决策。&lt;/p&gt;
 
 &lt;ul&gt;
@@ -33,13 +36,13 @@
 
 &lt;p&gt;很精致的一个小游戏，玩的时候从没有过哪方面有问题的感觉（也可能只是我不灵敏）。我的那个结局通关的时候，还故意给了点悬念，不过最终边界还是放行了。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;相关&lt;/h2&gt;
+&lt;h2 id=&quot;section-4&quot;&gt;相关&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;看development log，有人提到了Frotiners&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;，一个半条命mod游戏，讲边界故事的，好像也挺好。好奇怎么做HL2的mod，感觉系统下有很多可能（传送门，半条命，物竞天择，也许我该看一些比较出名的mod）。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-4&quot;&gt;引用&lt;/h2&gt;
+&lt;h2 id=&quot;section-5&quot;&gt;引用&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
@@ -52,56 +55,5 @@
       &lt;p&gt;&lt;a href=&quot;https://www.frontiers-game.com&quot;&gt;Frontiers - Half-Life 2 mod&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><category term="CN" /><summary>最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。</summary></entry><entry><title>Welcome to Jekyll!</title><link href="/jekyll/update/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-06-14T12:51:24-04:00</published><updated>2017-06-14T12:51:24-04:00</updated><id>/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><category term="EN" /><summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title>Doctor Who 各种系列说明</title><link href="/doctor/who/Doctor-Who-%E5%90%84%E7%A7%8D%E7%B3%BB%E5%88%97%E8%AF%B4%E6%98%8E" rel="alternate" type="text/html" title="Doctor Who 各种系列说明" /><published>2014-10-27T19:37:24-04:00</published><updated>2014-10-27T19:37:24-04:00</updated><id>/doctor/who/Doctor-Who-各种系列说明</id><content type="html" xml:base="/doctor/who/Doctor-Who-%E5%90%84%E7%A7%8D%E7%B3%BB%E5%88%97%E8%AF%B4%E6%98%8E">&lt;p&gt;小说有以下几个系列:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Target Novelisations：也叫Target Books，主要是一些老版剧集的改编小说。&lt;/li&gt;
-  &lt;li&gt;Virgin Missing Adventures: 简写作MA，基本以六任以前的博士为主，除去一篇有第七任的。&lt;/li&gt;
-  &lt;li&gt;Virgin New Adventures：简写作NA，第七任博士为主，包括其Bernice Summerfield在内一共84本小说，均为老版博士的历险故事。1991年开始系列，相当于接上老版剧情。&lt;/li&gt;
-  &lt;li&gt;BBC Past Doctor Adventures：简写为PDA，为1～7任博士的历险故事（与剧情无干涉），没有任期顺序，仅有出版顺序。&lt;/li&gt;
-  &lt;li&gt;BBC Eighth Doctor Adventures：简写为EDA，是单个博士历险小说最庞大的系列。前后70来本小说。。填补了八叔只有一部电影的大坑。接着电影，接替了Virgin New Adventures的位置，继续了老版剧情。&lt;/li&gt;
-  &lt;li&gt;BBC New Series Adventures：简称NSA，是2005年新版神秘博士开播后的历险故事。&lt;/li&gt;
-  &lt;li&gt;Quick Reads系列：Quick Reads这个组织致力于让大作家写短小精悍的小说，每本只卖1英镑，鼓励英国人民阅读，被划归在NSA里。 
-2in1books：BBC Children’s Books出版的6本小说，每本有两个作家写的两个故事，均为11任与Ponds的历险故事，也被划归在NSA里。
-NSA总介绍&lt;/li&gt;
-  &lt;li&gt;Big Finish Short Trips：简写作ST，均为老版短篇。&lt;/li&gt;
-  &lt;li&gt;BBC Time Trips：五十周年的时候BBC发了一套12个博士12个短篇故事的。这个系列继那个系列的成功，接着出短篇，好像很不错。
-BBC官方网站的免费短篇故事系列。
-除此之外还有一些其他的系列，比如老版的Telos Novellas (TEL)，新版的Dicide Your Destiny，Dark Smith Legacy (DSL)系列。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;附加链接: 
-The Cloister Library - 网站上有很多书的笔记, 每本最后都有评价, 可以挑一下好书。还有每本的前序阅读&lt;/p&gt;
-
-&lt;p&gt;有声书、广播剧:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Big Finish：简写作BF，广播剧公司，出产各种系列。&lt;/li&gt;
-  &lt;li&gt;Bill &amp;amp; Ben Video：简写作BBV，创始人就是Doctor Who的超级粉丝。好像也有Nicholas Briggs。有audio和video两个大类。有6胖的stranger系列就包含在video系列里。具体暂不详。&lt;/li&gt;
-  &lt;li&gt;Audio Visuals: 简写作AV，是官方没有认证的同人小说，Nicholas Briggs有在里面。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;来个顺序:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;老版26季&lt;/li&gt;
-  &lt;li&gt;NA系列&lt;/li&gt;
-  &lt;li&gt;96电影版&lt;/li&gt;
-  &lt;li&gt;EDA系列&lt;/li&gt;
-  &lt;li&gt;BF广播剧八叔部分&lt;/li&gt;
-  &lt;li&gt;博士之夜&lt;/li&gt;
-  &lt;li&gt;新版&lt;/li&gt;
-  &lt;li&gt;中间穿插剩余所有&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CN" /><summary>小说有以下几个系列:</summary></entry></feed>
+&lt;/div&gt;</content><category term="CN" /><summary>放在前面
+不算什么点评，就是一些想法。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://127.0.0.1:4000{&quot;teaser&quot;=&gt;&quot;Papers_Please_-_Title_Logo.png&quot;, &quot;feature&quot;=&gt;&quot;papers_please_credit_screenshot.png&quot;, &quot;credit&quot;=&gt;&quot;screenshot from my play through&quot;, &quot;creditlink&quot;=&gt;&quot;http://papersplea.se&quot;}" /></entry></feed>
