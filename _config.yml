@@ -5,7 +5,7 @@ description: "My personal website, I post stuff and there is also my cv, my proj
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://127.0.0.1:4000 # http://defwentz.github.io
+url: http://defwentz.github.io
 feed:
   path: atom.xml
 
