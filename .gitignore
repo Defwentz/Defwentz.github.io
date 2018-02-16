@@ -8,8 +8,6 @@ _projects
 _sass
 _templates
 *.md
-*.ico
 Gemfile
 Gemfile.lock
-*.json
 .sass-cache
