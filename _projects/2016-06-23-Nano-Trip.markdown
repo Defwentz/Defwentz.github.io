@@ -14,7 +14,7 @@ Nano Trip is a physics game developed in Cocos2d-X. It's a simple game where you
 
 Demo
 -
-![Nano Trip Demo]({{ "/images/nano_trip_demo.gif" | absolute_url }})
+![Nano Trip Demo]({{ "/images/nano_trip_demo.gif"}})
 
 
 Links
@@ -31,7 +31,7 @@ Credits
 
 Our team at hackathon getting a check
 -
-![Our team]({{ "/images/nano_trip_our_team.jpg" | absolute_url }})
+![Our team]({{ "/images/nano_trip_our_team.jpg"}})
 
 (that person on the left isn't on our team, she's from the company that organizes the event)
 
