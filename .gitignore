@@ -10,4 +10,3 @@ _templates
 *.md
 Gemfile
 Gemfile.lock
-.sass-cache
