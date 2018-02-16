@@ -3,12 +3,13 @@
 - title: Blog
   url: /
   excerpt: "Blog posts"
-  image:
+  image: 327Spinda.png
+  categories: [game-thoughts]
   
 - title: Portfolio
   url: /portfolio/
   excerpt: "Things I’ve designed, developed, coded, and whatever."
-  image:
+  image: 
   
 - title: About me
   url: /about/

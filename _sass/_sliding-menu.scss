@@ -163,6 +163,15 @@
         @include font-size(16,no);
       }
     }
+    .sub-menu-item > a {
+	  margin-left: 170px;
+	  font-style: italic;
+	  font-family: $base-font;
+	  font-weight: normal;
+	  text-transform: lowercase;
+      display: block;
+      color: $white;
+    }
   }
   .sub-menu-item > li a {
     display: block;
