@@ -23,7 +23,6 @@ plugins:
   # - jekyll-gist
   # - jekyll-feed
 
-
 # Site owner
 owner:
   name: Wenxuan Zhu
@@ -39,6 +38,8 @@ owner:
 collections:
   projects:
     output: true
+
+category_layout: category_index.html
 
 include:
   - .htaccess

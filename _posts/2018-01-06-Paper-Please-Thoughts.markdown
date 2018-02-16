@@ -2,8 +2,8 @@
 layout: article
 title:  "《请出示文件》想法"
 date:   2018-01-06 17:40:24 -0400
-categories: game thoughts
-tags: CN
+categories: game-thoughts
+tags: cn
 permalink: /:categories/:title
 comments: true
 
@@ -16,9 +16,9 @@ image:
 
 放在前面
 -
-不算什么点评，就是一些想法。
+不算什么点评，就是一些想法。想写下来，也许有收获。
 
-最早在3dm上看过这个游戏，reddit上见过cosplay，之前跨年steam打折又看到决定买来试一下。
+最早在3dm上看过这个游戏，reddit上还见过cosplay，一直就很有好感，之前跨年steam打折又看到决定买来试一下。
 
 画面, 音乐
 -
