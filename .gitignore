@@ -1,5 +1,4 @@
 .DS_Store
-*.yml
 _data
 _includes
 _layouts
@@ -12,6 +11,5 @@ _templates
 *.ico
 Gemfile
 Gemfile.lock
-*.js
 *.json
 .sass-cache
