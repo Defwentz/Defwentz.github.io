@@ -9,11 +9,9 @@ _projects
 _sass
 _templates
 *.md
-assets
 *.ico
 Gemfile
 Gemfile.lock
 *.js
-js
 *.json
 .sass-cache
