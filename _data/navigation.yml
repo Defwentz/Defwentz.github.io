@@ -4,7 +4,7 @@
   url: /
   excerpt: "Blog posts"
   image: 327Spinda.png
-  categories: [game-thoughts]
+  categories: [game-thoughts, web-development]
   
 - title: Portfolio
   url: /portfolio/
