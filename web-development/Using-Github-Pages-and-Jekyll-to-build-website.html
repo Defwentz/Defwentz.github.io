@@ -19,7 +19,7 @@ There is a lot of tutorials out there, but I feel like I still took a lot of wro
 	<meta name="twitter:creator" content="@defwentz">
 	
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="http://defwentz.github.io/images/logo-jekyll.png">
+	<meta name="twitter:image" content="http://defwentz.github.io/images/logo-Jekyll.png">
 	
 	<!-- Open Graph -->
 	<meta property="og:locale" content="en">
@@ -122,7 +122,7 @@ There is a lot of tutorials out there, but I feel like I still took a lot of wro
 		
 		<div class="page-feature">
 			<div class="page-image">
-				<img src="http://defwentz.github.io/images/logo-jekyll.png" class="page-feature-image" alt="Using Github Pages and Jekyll to build website" itemprop="image">
+				<img src="http://defwentz.github.io/images/logo-Jekyll.png" class="page-feature-image" alt="Using Github Pages and Jekyll to build website" itemprop="image">
 				
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
@@ -150,20 +150,20 @@ There is a lot of tutorials out there, but I feel like I still took a lot of wro
 
 <h2 id="basics">Basics</h2>
 <p>Github Pages is a static site hosting service.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> 
-Everything there is in the repo, you can’t dynamically store or change stuff. But you could still have a lot of features with the help from third party services, for example, I use disqus for comments feature in my website.</p>
+All you have is what’s in the repo, you can’t dynamically store or change stuff. But you could still have a lot of features with the help from third party services, for example, I use disqus for comments feature in my website.</p>
 
-<p>Jekyll is an open-source static site generator.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Github Pages are powered by Jekyll, so to do anything with it, you need to use Jekyll. However, there is an option to bypass jekyll, you can build your site locally, and then push it to the repo.</p>
+<p>Jekyll is an open-source static site generator.<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> Github Pages are powered by Jekyll, so to do anything with it, you need to use Jekyll. However, there is an option to bypass Jekyll, you can build your site locally, and then push it to the repo.</p>
 
 <h2 id="steps-to-using-your-own-plugins">Steps to using your own plugins</h2>
-<p>Jekyll has a plugin system that allows you to create custom genereated content. The Jekyll documents has been clear on explaining itself.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> There is lot of nice things you can do if you can write code. For example, you can have category index pages.</p>
+<p>There is lot of nice things you can do if you can write code, you can generate category index pages, for example. Jekyll has a plugin system that allows you to create custom genereated content. The Jekyll documents is pretty clear with how you do things.<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup></p>
 
 <p>Because your own plugin will be considered unsafe, Github won’t run your code. But you could build your site locally and then push it to your repo.<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup></p>
 
 <ol>
-  <li>build your site with jekyll</li>
+  <li>build your site with Jekyll</li>
   <li>take out the content in _site folder</li>
   <li>update your publishing branch with content in your _site folder</li>
-  <li>add a file called “.nojekyll”, this will let you bypass Github Pages’ Jekyll build.</li>
+  <li>add a file called “.noJekyll”, this will let you bypass Github Pages’ Jekyll build.</li>
   <li>push it to github</li>
 </ol>
 
@@ -171,11 +171,11 @@ Everything there is in the repo, you can’t dynamically store or change stuff. 
 
 <p>Q: Jekyll isn’t running my code.</p>
 
-<p>A: Check your Gemfile and see if you’re using github-pages gem. If you are jekyll will not be running your code, because they’re not considered safe.</p>
+<p>A: Check your Gemfile and see if you’re using github-pages gem. If you are, Jekyll will not be running your code, because they’re not considered safe.</p>
 
-<p>Q: Jekyll is override my “site.url” with “localhost”.</p>
+<p>Q: Jekyll is overriding my “site.url” with “localhost”.</p>
 
-<p>A: You need to add addition stuff in your build command, <code class="highlighter-rouge">bundle exec jekyll build JEKYLL_ENV=production</code>.</p>
+<p>A: You need to add addition stuff in your build command, <code class="highlighter-rouge">bundle exec Jekyll build Jekyll_ENV=production</code>.</p>
 
 <h2 id="reference">Reference</h2>
 <div class="footnotes">
@@ -184,13 +184,13 @@ Everything there is in the repo, you can’t dynamically store or change stuff. 
       <p><a href="https://help.github.com/articles/what-is-github-pages/">What is Github Pages?</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p><a href="https://github.com/jekyll/jekyll">Jekyll’s Github repo</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+      <p><a href="https://github.com/Jekyll/Jekyll">Jekyll’s Github repo</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:3">
-      <p><a href="https://jekyllrb.com/docs/plugins/">Jekyll Plugins</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+      <p><a href="https://Jekyllrb.com/docs/plugins/">Jekyll Plugins</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:4">
-      <p><a href="https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/">Adding Jekyll plugins to a GitHub Pages site</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+      <p><a href="https://help.github.com/articles/adding-Jekyll-plugins-to-a-github-pages-site/">Adding Jekyll plugins to a GitHub Pages site</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
