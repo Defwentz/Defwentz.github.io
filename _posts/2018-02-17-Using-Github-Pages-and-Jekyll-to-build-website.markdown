@@ -8,8 +8,8 @@ permalink: /:categories/:title
 comments: true
 
 image:
-  teaser: logo-Jekyll-teaser.png
-  feature: logo-Jekyll.png
+  teaser: logo-jekyll-teaser.png
+  feature: logo-jekyll.png
 ---
 
 Why am I writing this?
