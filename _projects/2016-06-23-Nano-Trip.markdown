@@ -8,6 +8,7 @@ permalink: /:title
 image:
   teaser: nano_trip_teaser.jpg
   credit: Chang Liu
+  creditlink: https://weibo.com/u/2698389475
 ---
 
 Nano Trip is a physics game developed in Cocos2d-X. It's a simple game where you create game objects and tilt your device to keep Nano safe from harm.
@@ -26,7 +27,7 @@ Links
 Credits
 -
 - programming: [Wenxuan Zhu](http://defwentz.github.io)
-- art: Chang Liu, Gong Yun
+- art: [Chang Liu](https://weibo.com/u/2698389475), Gong Yun
 - music: Shoukun Yan
 
 Our team at hackathon getting a check
