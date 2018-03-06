@@ -30,7 +30,7 @@ Credits
 - art: [Chang Liu](https://weibo.com/u/2698389475), Gong Yun
 - music: Shoukun Yan
 
-Our team at hackathon getting a check
+Our team at hackathon
 -
 ![Our team]({{ "/images/nano_trip_our_team.jpg"}})
 
