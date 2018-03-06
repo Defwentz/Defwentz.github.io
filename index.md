@@ -4,8 +4,8 @@ title: "Latest Posts"
 permalink: /
 
 image:
-  teaser: 115_hires.png
-  feature: 115_hires.png
+  teaser: PRC_115.png
+  feature: PRC_115.png
   credit: Ken Sugimori
   creditlink: https://twitter.com/SUPER_32X
 ---

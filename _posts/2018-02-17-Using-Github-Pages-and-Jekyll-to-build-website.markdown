@@ -18,16 +18,16 @@ There is a lot of tutorials out there, but I feel like I still took a lot of wro
 
 Basics
 -
-Github Pages is a static site hosting service.[^1] 
+Github Pages is a static site hosting service. 
 All you have is what's in the repo, you can't dynamically store or change stuff. But you could still have a lot of features with the help from third party services, for example, I use disqus for comments feature in my website.
 
-Jekyll is an open-source static site generator.[^2] Github Pages are powered by Jekyll, so to do anything with it, you need to use Jekyll. However, there is an option to bypass Jekyll, you can build your site locally, and then push it to the repo.
+Jekyll is an open-source static site generator. Github Pages are powered by Jekyll, so to do anything with it, you need to use Jekyll. However, there is an option to bypass Jekyll, you can build your site locally, and then push it to the repo.
 
 Steps to using your own plugins
 -
-There is lot of nice things you can do if you can write code, you can generate category index pages, for example. Jekyll has a plugin system that allows you to create custom genereated content. The Jekyll documents is pretty clear with how you do things.[^3]
+There is lot of nice things you can do if you can write code, you can generate category index pages, for example. Jekyll has a plugin system that allows you to create custom genereated content. The Jekyll documents is pretty clear with how you do things.[^1]
 
-Because your own plugin will be considered unsafe, Github won't run your code. But you could build your site locally and then push it to your repo.[^4]
+Because your own plugin will be considered unsafe, Github won't run your code. But you could build your site locally and then push it to your repo.[^2]
 
 1. build your site with Jekyll
 2. take out the content in _site folder
@@ -48,7 +48,5 @@ A: You need to add addition stuff in your build command, `bundle exec Jekyll bui
 
 Reference
 -
-[^1]: [What is Github Pages?](https://help.github.com/articles/what-is-github-pages/)
-[^2]: [Jekyll's Github repo](https://github.com/Jekyll/Jekyll)
-[^3]: [Jekyll Plugins](https://Jekyllrb.com/docs/plugins/)
-[^4]: [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-Jekyll-plugins-to-a-github-pages-site/)
+[^1]: [Jekyll Plugins](https://Jekyllrb.com/docs/plugins/)
+[^2]: [Adding Jekyll plugins to a GitHub Pages site](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)

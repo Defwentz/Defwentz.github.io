@@ -2,9 +2,23 @@
 layout: article_alt
 title: "About Me"
 permalink: /about/
+
+image:
+  teaser: BCR_115.png
+  feature: BCR_115.png
+  credit: Mitsuhiro Arita
+  creditlink: https://twitter.com/MitsuhiroArita
 ---
 
-My name is Wenxuan Zhu. I enjoy learning, becoming better and understanding basic principles behind things. Here is my [CV]({{ site.url }}/assets/cv-2017.pdf).
+-------------------------------------
+
+My name is Wenxuan Zhu. I enjoy learning, becoming better and understanding basic principles behind things. Here is my [CV]({{ site.url }}/assets/cv-lite.pdf).
+
+I'm enjoy movies and games. I think of game as an art form. I also do English-to-Chinese translation and point out references in fansub groups for [classic](http://www.imdb.com/title/tt0056751/?ref_=nv_sr_2)/[new](http://www.imdb.com/title/tt0436992/?ref_=nv_sr_2) Doctor Who and [Psych](http://www.imdb.com/title/tt0491738/).
+
+
+Contact
+-
 
 email: <{{ site.owner.email }}>
 
