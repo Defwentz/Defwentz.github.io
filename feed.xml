@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-21T11:13:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spinda’s website</title><subtitle>This is the homesite of Wenxuan Zhu. Gaming person, game dev hobbyist, movie person, bball fan.</subtitle><entry><title type="html">Scrolls</title><link href="http://localhost:4000/games/2023/04/20/inkay.html" rel="alternate" type="text/html" title="Scrolls" /><published>2023-04-20T09:42:47-07:00</published><updated>2023-04-20T09:42:47-07:00</updated><id>http://localhost:4000/games/2023/04/20/inkay</id><content type="html" xml:base="http://localhost:4000/games/2023/04/20/inkay.html">&lt;p&gt;The idea is, turn based combat, you craft your own skills(scrolls). And with a system in place, the game can generate its own skills and enemies.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-05T11:06:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spinda’s website</title><subtitle>This is the homesite of Wenxuan Zhu. Gaming person, game dev hobbyist, movie person, bball fan.</subtitle><entry><title type="html">Wave Explorer</title><link href="http://localhost:4000/games/2023/06/05/wave-explorer.html" rel="alternate" type="text/html" title="Wave Explorer" /><published>2023-06-05T09:38:55-07:00</published><updated>2023-06-05T09:38:55-07:00</updated><id>http://localhost:4000/games/2023/06/05/wave-explorer</id><content type="html" xml:base="http://localhost:4000/games/2023/06/05/wave-explorer.html">&lt;p&gt;It started with wave propagation simulation with grids, and ended with I really just want to finish this thing, it’s taking so long (a month and change) and has so many limitations. But I am happy and proud with the minimal crappy prototype.&lt;/p&gt;
+
+&lt;p&gt;Screenshots: &lt;a href=&quot;/assets/wave-explorer-screenshot.png&quot;&gt;1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Itch.io: &lt;a href=&quot;https://defwentz.itch.io/wave-explorer&quot;&gt;here&lt;/a&gt; (Only exported for windows 64bit)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Extra: I did realize the two viewers on the left are basically useless to the player and just confuses them after watching a friend play. But the extra bit is nice, I do still think people are attracted to complexity.&lt;/p&gt;
+
+&lt;p&gt;Also people don’t really use the sonar, it needs a much bigger button so they notice.&lt;/p&gt;</content><author><name></name></author><category term="games" /><summary type="html">It started with wave propagation simulation with grids, and ended with I really just want to finish this thing, it’s taking so long (a month and change) and has so many limitations. But I am happy and proud with the minimal crappy prototype.</summary></entry><entry><title type="html">Scrolls</title><link href="http://localhost:4000/games/2023/04/20/inkay.html" rel="alternate" type="text/html" title="Scrolls" /><published>2023-04-20T09:42:47-07:00</published><updated>2023-04-20T09:42:47-07:00</updated><id>http://localhost:4000/games/2023/04/20/inkay</id><content type="html" xml:base="http://localhost:4000/games/2023/04/20/inkay.html">&lt;p&gt;The idea is, turn based combat, you craft your own skills(scrolls). And with a system in place, the game can generate its own skills and enemies.&lt;/p&gt;
 
 &lt;p&gt;Oof, this random small idea i had took exactly a year, and I just want to stop working on it. But hey, it’s something.&lt;/p&gt;
 
@@ -10,14 +19,16 @@
 
 &lt;p&gt;Basically, you fall down the infinitely generated environment as a blob, by using gestures to draw lines in the environment or tilting your device, you try to prevent your blob from touching the enmeies and last as long as you can.&lt;/p&gt;
 
-&lt;p&gt;That was a great time. I had a clear goal, it was summer during college so I’m on it everyday, and it came to fruition in less than a month.&lt;/p&gt;
+&lt;p&gt;That was a great time. A clear goal, it was summer during college so I’m on it everyday, and it came to fruition in less than a month.&lt;/p&gt;
 
-&lt;p&gt;Written in Cocos2d-X, unfortunately it’s gone from all the app stores, tho I would like to remake it at some point. And it’s public on &lt;a href=&quot;https://github.com/Defwentz/Nana-Trip&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Written in Cocos2d-X, unfortunately it’s gone from all the app stores, tho I would like to remake it at some point. And it’s public on &lt;a href=&quot;https://github.com/Defwentz/Nana-Trip&quot;&gt;github&lt;/a&gt;. Also also, it was available for both Android and iOS and that was something.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/nano_trip_demo.gif&quot; alt=&quot;Gameplay&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Credits:&lt;/p&gt;
 
-&lt;p&gt;programming: Wenxuan Zhu
-art: &lt;a href=&quot;https://weibo.com/u/2698389475&quot;&gt;Chang Liu&lt;/a&gt;, Gong Yun
-music: Shoukun Yan&lt;/p&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;programming: Wenxuan Zhu&lt;/li&gt;
+  &lt;li&gt;art: &lt;a href=&quot;https://weibo.com/u/2698389475&quot;&gt;Chang Liu&lt;/a&gt;, Gong Yun&lt;/li&gt;
+  &lt;li&gt;music: Shoukun Yan&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="games" /><summary type="html"></summary></entry></feed>
